@@ -47,6 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shinvitiya/shinvitiya/output/snake.svg" alt="Snake animation" />
+<h3>Btw I run <a href="https://lk.linkedin.com/company/noyoshi" target_"blank">Noyoshi</a></h3>
+
 
 ###

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Shin and I'm a frontend dev who that turns ideas into interactive web-animations.</h2>
+<h2 align="left">Hi 👋! I'm Shin and I'm a frontend dev who turns ideas into interactive web-animations.</h2>
 
 ###
 
@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<h3>Btw I run <a href="https://lk.linkedin.com/company/noyoshi" target_"blank">Noyoshi</a></h3>
+<h3>Btw I run <a href="https://lk.linkedin.com/company/noyoshi" target="_blank" >Noyoshi</a></h3>
 
 
 ###
